@@ -1,0 +1,20 @@
+body{
+    /* we'll add our styling here */
+    background-color:darkseagreen;
+}
+
+#container{
+    text-align:center;
+}
+
+.button{
+    border-radius:5px;
+}
+
+.button:hover{
+    background-color:seagreen;
+}
+
+ul{
+    list-style-type: none;
+}
